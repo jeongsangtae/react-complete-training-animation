@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 
 2. CSS 애니메이션으로 애니메이션 넣기
 
-3. 프레이머 모션 기초
+3. 프레이머 모션 기초 (framer-motion 폴더에서 연습)
 
 4. 조건 값 사이에 애니메이션 넣기
 
