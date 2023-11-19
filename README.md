@@ -44,5 +44,3 @@ Currently, two official plugins are available:
 17. 키를 활용해 애니메이션 다시 트리거하기
 
 18. 스크롤 기반 애니메이션
-
-19. 다른 접근법: ReactTransitionGroup으로 작업하기
